@@ -1,16 +1,19 @@
-## Hi there 👋
+## Oiii eu sou a Jessica Costa!
 
-<!--
-**Jessjca/jessjca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou pesquisadora associada à Universidade Federal de Ouro Preto, com interesse em projetos que envolvem aprendizado de máquina e análise de dados aplicados a comportamentos digitais. Atualmente, estou investigando anomalias em conteúdos relacionados a jogos de cassino online no YouTube, buscando compreender como esses materiais impactam e influenciam os usuários.
 
-Here are some ideas to get you started:
+Minha pesquisa combina ferramentas de aprendizado de máquina, como os modelos Llama 3.1 e roBERTa, com metodologias estatísticas, incluindo a análise fatorial 2k, para explorar interações e padrões comportamentais. O objetivo é não apenas investigar anomalias, mas também trazer contribuições significativas para o campo da análise de dados em plataformas digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aqui no meu GitHub, compartilho projetos, ideias e resultados que refletem minha busca por conhecimento e inovação. Fique à vontade para explorar e colaborar!
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jessi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+  
+  ##
+ 
+<div>
+  <a href = "mailto:jessicasousacosta97@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jessjca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
