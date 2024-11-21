@@ -9,7 +9,10 @@ Aqui no meu GitHub, compartilho projetos, ideias e resultados que refletem minha
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<div style="display: inline_block"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+</div>
+
   ##
  
 <div>
