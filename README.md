@@ -1,6 +1,6 @@
 ## Oiii eu sou a Jessica Costa!
 
-Sou pesquisadora associada à Universidade Federal de Ouro Preto, com interesse em projetos que envolvem aprendizado de máquina e análise de dados aplicados a comportamentos digitais. Atualmente, estou investigando anomalias em conteúdos relacionados a jogos de cassino online no YouTube, buscando compreender como esses materiais impactam e influenciam os usuários.
+Sou graduanda na Universidade Federal de Ouro Preto, com interesse em projetos que envolvem aprendizado de máquina e análise de dados aplicados a comportamentos digitais. Atualmente, estou investigando anomalias em conteúdos relacionados a conteúdos de vídeos em mídias sociais, buscando compreender como esses materiais impactam e influenciam os usuários.
 
 Minha pesquisa combina ferramentas de aprendizado de máquina, como os modelos Llama 3.1 e roBERTa, com metodologias estatísticas, incluindo a análise fatorial 2k, para explorar interações e padrões comportamentais. O objetivo é não apenas investigar anomalias, mas também trazer contribuições significativas para o campo da análise de dados em plataformas digitais.
 
