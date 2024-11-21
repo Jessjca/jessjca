@@ -1,4 +1,4 @@
-## Oiii eu sou a Jessica Costa!
+## Oiii eu sou a Jessica!
 
 Sou graduanda na Universidade Federal de Ouro Preto, com interesse em projetos que envolvem aprendizado de máquina e análise de dados aplicados a comportamentos digitais. Atualmente, estou investigando anomalias em conteúdos relacionados a vídeos sobre uma temática específica em mídias sociais, buscando compreender como esses materiais impactam e influenciam os usuários.
 
