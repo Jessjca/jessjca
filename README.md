@@ -8,7 +8,7 @@ Aqui no meu GitHub, compartilho projetos, ideias e resultados que refletem minha
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jessi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <i align="center" alt="Jessi-Python" height="30" width="40" class="devicon-amazonwebservices-plain-wordmark"></i>
+  <i align="center" alt="Jessi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/>
   <img align="center" alt="Jessi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg"/>
   <img align="center" alt="Jessi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-plain-wordmark.svg"/>
   <img align="center" alt="Jessi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain-wordmark.svg" />
